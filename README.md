@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoreNikee02
+- 👋 Hi, I’m Vivian John Idowu 
 - 👀 I’m interested in Data Analysis, visualization, and uncovering insights from complex datasets.
 - 🌱 I’m currently learning Excel, PowerBI, Tableau, SQR and R to enhance my analytical skills.
 - 💞️ I’m looking to collaborate on projects related to data analysis, data visualization and data cleaning.
